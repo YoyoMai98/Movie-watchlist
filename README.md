@@ -1,5 +1,5 @@
 # Movie Watchlist
-The project was based on [MattDobsonWeb's tutorial](https://github.com/MattDobsonWeb/movie-watchlist-react) in ReactJS
+The project was based on [MattDobsonWeb's tutorial](https://www.youtube.com/watch?v=1eO_hNYzaSc) in ReactJS
 
 It could add movies to watchlist/watched and check the details of any selected movie
 
